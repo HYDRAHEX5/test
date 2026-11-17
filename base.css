@@ -5,7 +5,7 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css");
 
 :root {
-  --background: url("https://so1ta.github.io/Images/USP.jpg");
+  --background: url("https://github.com/HYDRAHEX5/test/blob/main/celestial.png");
   --font:                       "Inter";
   --transparencyalpha:          0.7;
   --transparencycolor:			    0,0,0;
@@ -25,5 +25,5 @@
   --interactive-normal:         #ff90a2;
   --interactive-hover:          #ffffff;
   --interactive-active:         #ffffff;
-  --background-modifier-accent: #fff2;
+  --background-modifier-accent: rgba(255, 255, 255, 0.08);
 }
